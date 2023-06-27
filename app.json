@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "fingerprint",
+    "slug": "fingerprint",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
